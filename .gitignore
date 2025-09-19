@@ -208,3 +208,6 @@ __marimo__/
 
 # Machine learning model files
 *.pkl
+
+# Data files
+*.csv

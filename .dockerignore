@@ -1,0 +1,7 @@
+*
+!requirements.txt
+!ml_api.py
+!models/
+!models/*.pkl
+!Dockerfile
+!.dockerignore
